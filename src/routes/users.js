@@ -1,4 +1,4 @@
-import knex from "../config/knew";
+import knex from "../config/knex";
 
 const users = {
   method: "GET",
